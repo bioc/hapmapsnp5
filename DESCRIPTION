@@ -1,6 +1,6 @@
 Package: hapmapsnp5
 Title: Sample data - Hapmap SNP 5.0 Affymetrix
-Version: 1.7.0
+Version: 1.7.1
 Author: Hapmap Consortium
 Suggests: oligo
 Maintainer: Benilton Carvalho <Benilton.Carvalho@cancer.org.uk>
